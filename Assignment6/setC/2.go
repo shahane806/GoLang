@@ -1,0 +1,1 @@
+// wap in go language to print file information

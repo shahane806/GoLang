@@ -1,0 +1,1 @@
+// wap in go language to add or append content at the end of text file

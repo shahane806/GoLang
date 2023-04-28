@@ -1,0 +1,1 @@
+// wap to create student struct with student name and marks and sort it based on student marks using sort package

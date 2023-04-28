@@ -1,0 +1,1 @@
+// wap in go language to subtract two integer and write code for table test to test this code

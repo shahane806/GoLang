@@ -1,0 +1,1 @@
+// wap in go implement multiple goroutine function and schedule is determined by scheduler

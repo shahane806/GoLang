@@ -1,0 +1,1 @@
+minimum element of the array is : %v\n", arr[0]

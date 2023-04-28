@@ -1,0 +1,1 @@
+// wap in go language to read xml file into structure and display structure

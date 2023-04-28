@@ -1,0 +1,1 @@
+// write a function in go language to find square of a number and write a benchmark for it
